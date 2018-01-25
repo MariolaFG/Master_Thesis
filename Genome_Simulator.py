@@ -217,3 +217,4 @@ if __name__ == "__main__":
     bam_creator(argv[3])
     bam_sorter(argv[3])
 
+		
